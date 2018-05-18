@@ -3,3 +3,14 @@
     margin: 20px;
     padding: 20px;
 }
+
+/* test (give each button in Q1 'class="q1btn"')
+.q1btn:focus {
+    background-color: red;
+}
+*/
+
+.active {
+    background-color: lightblue;
+}
+
